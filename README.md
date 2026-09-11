@@ -1,16 +1,47 @@
-# React + Vite
+# EduReact — E-Learning Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive multi-page e-learning platform built with React.js, Tailwind CSS, JavaScript, and React Router.
 
-Currently, two official plugins are available:
+## 📌 About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+EduReact is a frontend web project designed for an online learning platform. The project focuses on creating a modern, responsive, and user-friendly interface for students and online course users.
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive multi-page layout
+- Modern navigation and UI
+- Home / landing page
+- Course section
+- About page
+- Contact page
+- Course cards and pricing information
+- Responsive design for different screen sizes
+- Reusable React components
+- React Router based page navigation
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- JavaScript
+- Tailwind CSS
+- React Router
+- HTML5
+- CSS3
+
+## 📄 Pages
+
+- Home
+- About
+- Courses
+- Contact
+
+## 🎯 Project Purpose
+
+This project was developed as part of my web development learning and practice to strengthen my skills in React.js, responsive UI development, component-based architecture, and client-side routing.
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/abdulbasit121412-commits/edureact-e-learning-platform.git
